@@ -1,0 +1,6 @@
+/media/bob/8638BCBD38BCAD95/Develop/GameP1/build/CMakeFiles/glad.dir
+/media/bob/8638BCBD38BCAD95/Develop/GameP1/build/CMakeFiles/game.dir
+/media/bob/8638BCBD38BCAD95/Develop/GameP1/build/CMakeFiles/shader.dir
+/media/bob/8638BCBD38BCAD95/Develop/GameP1/build/CMakeFiles/LostInTime.dir
+/media/bob/8638BCBD38BCAD95/Develop/GameP1/build/CMakeFiles/edit_cache.dir
+/media/bob/8638BCBD38BCAD95/Develop/GameP1/build/CMakeFiles/rebuild_cache.dir
